@@ -1,1 +1,1 @@
-# find-errors-in-nestjs-docs
+# Automated error detection in nestjs documentation
